@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.g)
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=K-Naveenkumar1.K-Naveenkumar1" />
 
 <h1 align="center">
@@ -58,17 +58,18 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-K-Naveenkumar1.vercel.app/?user=K-Naveenkumar1&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-K-Naveenkumar1.vercel.app/api?username=K-Naveenkumar1&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img  width=390 src="https://github-readme-stats.vercel.app/api?username=K-Naveenkumar1&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-K-Naveenkumar1.vercel.app/api/top-langs/?username=K-Naveenkumar1&hide=langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img align="centre" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Naveenkumar1&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+
 
 <br/><br/>
 
 <hr/>
 
 <br/>
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+For+Visiting!+👋;++SShoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab" />
 </h1>
