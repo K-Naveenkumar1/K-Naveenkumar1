@@ -35,7 +35,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center"> Languages-Frameworks-Tools </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git" />
@@ -46,7 +46,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2> My Contributions </h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/K-Naveenkumar1/K-Naveenkumar1/output/github-contribution-grid-snake-dark.svg" />
   
@@ -55,7 +55,7 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center"> Stats </h2>
 <br>
 <div align=center>
     <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=K-Naveenkumar1&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
