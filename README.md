@@ -11,13 +11,13 @@
 
 <div align="center">
  
- 🔭 I’m currently **a Student**
+ I’m currently **a Student**
  
- 🌱 I’m currently learning **Full Stack Development**
+ I’m currently learning **Full Stack Development**
 
-💬 Ask me about **Python,Java,HTML,CSS... or anything [here](https://github.com/K-Naveenkumar1/K-Naveenkumar1/issues)**
+ Ask me about **Python,Java,HTML,CSS... or anything [here](https://github.com/K-Naveenkumar1/K-Naveenkumar1/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
  
