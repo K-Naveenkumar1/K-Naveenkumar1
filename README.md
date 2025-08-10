@@ -17,7 +17,7 @@
 
  Ask me about **Python,Java,HTML,CSS... or anything [here](https://github.com/K-Naveenkumar1/K-Naveenkumar1/issues)**
 
- Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ Quote **Be independent not dependent**
 
  </div>
  
