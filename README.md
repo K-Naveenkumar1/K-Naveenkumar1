@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/Banner 2.png" alt="Naveenkumark Banner" />
+  <img src="/Banner 2" alt="Naveenkumark Banner" />
 </p>
 
 <h1 align="center">
