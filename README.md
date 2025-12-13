@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 Final Year **Computer Science Undergrad**
+- 🎓 Final Year **Computer Science Undergraduate**
 - 💻 Building **SaaS products** and delivering projects to real clients
 - 🔭 Currently Working on **Intelligent Timetable Generator (SAAS)**<br>
 - 🌱 Currently Learning **Data Analytics & Advanced Python**<br>
