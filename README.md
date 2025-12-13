@@ -1,6 +1,3 @@
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=K-Naveenkumar1.K-Naveenkumar1" />
-
 <h1 align="center">Hi 👋, I'm Naveen Kumar K</h1>
 <h3 align="center">A Passionate Full Stack Developer From India</h3>
 
