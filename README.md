@@ -47,7 +47,6 @@
 ### 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=K-Naveenkumar1&show_icons=true&theme=radical" alt="GitHub Stats" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=K-Naveenkumar1&theme=radical" alt="GitHub Streak" />
   <img  algn="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=K-Naveenkumar1&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
