@@ -2,13 +2,13 @@
 <h3 align="center">A Passionate Full Stack Developer From India</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k-naveenkumar1" alt="k-naveenkumar1" /></a> </p>
 - 🔭 I’m Currently Working On **Intelligent Timetable Generator**<br>
-- 🌱 I’m Currently Learning **Data Analytics & Advanced Python**
-- 👯 I’m Looking To Collaborate On **New Projects**
-- 👨‍💻 All Of My Projects Are Available At [knaveenkumar.dev](knaveenkumar.dev)
-- 💬 Ask Me About **Full Stack Development & Web Development**
-- 📫 How To Reach Me **knaveenkumar894@gmail.com**
-- 📄 Know About My Experiences [knaveenkumar.dev](knaveenkumar.dev)
-- ⚡ Fun fact **I Enjoy While Coding**
+- 🌱 I’m Currently Learning **Data Analytics & Advanced Python**<br>
+- 👯 I’m Looking To Collaborate On **New Projects**<br>
+- 👨‍💻 All Of My Projects Are Available At [knaveenkumar.dev](knaveenkumar.dev)<br>
+- 💬 Ask Me About **Full Stack Development & Web Development**<br>
+- 📫 How To Reach Me **knaveenkumar894@gmail.com**<br>
+- 📄 Know About My Experiences [knaveenkumar.dev](knaveenkumar.dev)<br>
+- ⚡ Fun fact **I Enjoy While Coding**<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
