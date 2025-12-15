@@ -4,23 +4,37 @@
 <h3 align="center">A Passionate Full Stack Developer(SAAS) | UI/Ux Designer | Web & App Developer</h3>
 
 ---
+<div align="center">
+    
+ 🎓 Final Year **Computer Science Undergraduate**
+ 
+ 💻 Building **SaaS products** and delivering projects to real clients
+ 
+ 🔭 Currently Working on **Intelligent Timetable Generator (SAAS)**
+ 
+ 🌱 Currently Learning **Data Analytics & Advanced Python**
+ 
+ 💬 Ask Me About **Full Stack Development & Web Development**
+ 
+</div>
 
-### 🚀 About Me
-- 🎓 Final Year **Computer Science Undergraduate**
-- 💻 Building **SaaS products** and delivering projects to real clients
-- 🔭 Currently Working on **Intelligent Timetable Generator (SAAS)**<br>
-- 🌱 Currently Learning **Data Analytics & Advanced Python**<br>
-- 👯 Looking To Collaborate On **New Projects**<br>
-- 👨‍💻 All Of My Projects Are Available At [knaveenkumar.dev](knaveenkumar.dev)<br>
-- 💬 Ask Me About **Full Stack Development & Web Development**<br>
-- 📫 How To Reach Me **knaveenkumar894@gmail.com**<br>
-- 📄 Know About My Experiences [knaveenkumar.dev](knaveenkumar.dev)<br>
-- ⚡ Fun fact **I Enjoy While Coding**<br>
+
+<div align="center"> 
+  <a href="mailto:knaveenkumar894@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/naveenkumarknk/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.knaveenkumar.dev/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
 ---
 
 
-### 🧑‍💻 Tools/Technology Stacks I Know
+<h2 align="center"><b> 🧑‍💻 Tools/Technology Stacks I Know</b></h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git,r,nextjs" />
@@ -28,7 +42,8 @@
 </div>
 
 ---
-### 💪 My Contribution
+<h2 align="center"><b>💪 My Contribution</b></h2>
+<div align="center">
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -39,18 +54,19 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+</div>
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
+<h2 align="center"><b>📊 GitHub Stats</b></h2>
+<div align=center>
   <img src="https://github-readme-stats.vercel.app/api?username=K-Naveenkumar1&show_icons=true&theme=radical" alt="GitHub Stats" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img  algn="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=K-Naveenkumar1&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+</div>
 
 ---
 
-### 👇 Connect With Me On 
+<h2 align="center"><b> 👇 Connect With Me On </b></h2>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/naveenkumarknk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/naveenkumarknk/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/mr_naveenkumar_nk_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mr_naveenkumar_nk_/" height="30" width="40" /></a>
