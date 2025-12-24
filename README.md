@@ -9,7 +9,7 @@
 
 <div align="center">
     
- 🎓 Final Year **Computer Science Undergraduate**
+ 🎓 **Computer Science Undergraduate**
  
  💻 Building **SaaS products** and delivering projects to real clients
  
