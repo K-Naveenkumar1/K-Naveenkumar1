@@ -15,7 +15,7 @@
  
  🔭 Currently Working on **Naveo a Education Platform (SAAS)**
  
- 🌱 Currently Learning **Data Analytics & Advanced Python**
+ 🌱 Currently Learning **Data Analytics & DSA**
  
  💬 Ask Me About **Full Stack Development & Web Development**
  
