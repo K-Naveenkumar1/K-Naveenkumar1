@@ -13,7 +13,7 @@
  
  💻 Building **SaaS products** and delivering projects to real clients
  
- 🔭 Currently Working on **Intelligent Timetable Generator (SAAS)**
+ 🔭 Currently Working on **Naveo a Education Platform (SAAS)**
  
  🌱 Currently Learning **Data Analytics & Advanced Python**
  
