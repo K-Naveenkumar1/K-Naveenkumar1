@@ -8,8 +8,6 @@
 ---
 
 <div align="center">
-    
- 🎓 **Computer Science Undergraduate**
  
  💻 Building **SaaS products** and delivering projects to real clients
  
